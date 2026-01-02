@@ -6,8 +6,8 @@ Happy to see you here exploring my README code :)
 ![terminal](https://github.com/user-attachments/assets/6a835e00-b51d-46ac-8ff0-d5b740ce5773)
 
 ### Public Projects
-[![Production Forecasting](https://img.shields.io/badge/Production%20Forecasting-Time%20Series%20LSTM-8E44AD?)](https://github.com/h2hamadeh/production-forecast)
 [![Porosity Prediction](https://img.shields.io/badge/Porosity%20Prediction-Feedforward%20NN-2E86AB?)](https://github.com/h2hamadeh/porosity-prediction)
+[![Production Forecasting](https://img.shields.io/badge/Production%20Forecasting-Time%20Series%20LSTM-8E44AD?)](https://github.com/h2hamadeh/production-forecast)
 
 ### Languages
 [![Python](https://img.shields.io/badge/Python-FFF?logo=python)](#)
