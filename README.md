@@ -1,6 +1,5 @@
 <!--
-Hey there, I'm Hachem!
-Happy to see you exploring my profile's README code :)
+Hey there, happy to see you exploring my profile's README code :)
 -->
 
 ![terminal](https://github.com/user-attachments/assets/4552d5f3-e9f9-4851-bf15-6c88fdf3a758)
@@ -42,5 +41,5 @@ Happy to see you exploring my profile's README code :)
 #### Looking for talent? Check out my [resume](https://drive.google.com/file/d/1QgJiVlL5SC317B9vXCVvsPsxmvtXhn0z/view?usp=sharing)!
 
 <!--
-     Thanks for stopping by!
+Thanks for stopping by!
 -->
