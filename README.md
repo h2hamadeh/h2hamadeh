@@ -28,12 +28,12 @@ Happy to see you exploring my profile's README code :)
 [![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)](#)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-ffffff?logo=huggingface&logoColor=FF9D00)](#)
 [![Docker](https://img.shields.io/badge/Docker-FFF?logo=docker)](#)
+[![AWS](https://custom-icon-badges.demolab.com/badge/Amazon%20SageMaker-FFF.svg?logo=aws)](#)
 [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-ffffff?logo=apachespark)](#)
 [![MLflow](https://img.shields.io/badge/MLflow-ffffff?logo=MLflow)](#)
 
 <!--
 [![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-FFF?logo=apacheairflow&logoColor=0096c7)](#) 
-[![AWS](https://custom-icon-badges.demolab.com/badge/Amazon SageMaker-FFF.svg?logo=aws)](#)
 [![AWS](https://custom-icon-badges.demolab.com/badge/Amazon Bedrock-FFF.svg?logo=aws)](#)--> <!-- I am still learning these! -->
 
 #### Connect with me!
