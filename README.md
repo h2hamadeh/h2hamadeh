@@ -3,7 +3,7 @@ Hey there, I'm Hachem!
 Happy to see you exploring my profile's README code :)
 -->
 
-![terminal](https://github.com/user-attachments/assets/ad495146-37c4-4d7c-8973-d70545ee1974)
+![terminal](https://github.com/user-attachments/assets/4552d5f3-e9f9-4851-bf15-6c88fdf3a758)
 
 ### Public Projects
 [![Porosity Prediction](https://img.shields.io/badge/Porosity%20Prediction-Feedforward%20NN-8E44AD?)](https://github.com/h2hamadeh/porosity-prediction)
