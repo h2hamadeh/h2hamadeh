@@ -1,9 +1,9 @@
 <!--
 Hey there, I'm Hachem!
-Happy to see you here exploring my README code :)
+Happy to see you exploring my profile's README code :)
 -->
 
-![terminal](https://github.com/user-attachments/assets/6a835e00-b51d-46ac-8ff0-d5b740ce5773)
+![terminal](https://github.com/user-attachments/assets/ad495146-37c4-4d7c-8973-d70545ee1974)
 
 ### Public Projects
 [![Porosity Prediction](https://img.shields.io/badge/Porosity%20Prediction-Feedforward%20NN-8E44AD?)](https://github.com/h2hamadeh/porosity-prediction)
