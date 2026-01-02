@@ -16,6 +16,7 @@ Happy to see you exploring my profile's README code :)
 
 ### Libraries & Frameworks
 [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-FFF?logo=scikit-learn)](#)
+![SciPy](https://img.shields.io/badge/SciPy-FFF.svg?logo=scipy)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FFF?logo=tensorflow)](#)
 [![PyTorch](https://img.shields.io/badge/PyTorch-FFF?logo=pytorch)](#)
 [![FastAPI](https://img.shields.io/badge/FastAPI-FFF.svg?logo=fastapi)](#)
