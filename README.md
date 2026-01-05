@@ -4,9 +4,10 @@ Hey there, happy to see you exploring my profile's README code :)
 
 ![terminal](https://github.com/user-attachments/assets/4552d5f3-e9f9-4851-bf15-6c88fdf3a758)
 
-### Public Projects
+### Public Projects (by date)
 [![Porosity Prediction](https://img.shields.io/badge/Porosity%20Prediction-Feedforward%20NN-8E44AD?)](https://github.com/h2hamadeh/porosity-prediction)
 [![Production Forecasting](https://img.shields.io/badge/Production%20Forecasting-Time%20Series%20LSTM-8E44AD?)](https://github.com/h2hamadeh/production-forecast)
+[![HYPERVIEW2 Challenge](https://img.shields.io/badge/HYPERVIEW2%20Challenge-Soil%20Composition%20Prediction-8E44AD?)](https://github.com/h2hamadeh/hyperview2-challenge)
 
 ### Languages
 [![Python](https://img.shields.io/badge/Python-FFF?logo=python)](#)
